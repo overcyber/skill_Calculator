@@ -1,5 +1,7 @@
 # Calculator
 
+[![Continous Integration](https://gitlab.com/project-alice-assistant/skills/skill_Calculator/badges/master/pipeline.svg)](https://gitlab.com/project-alice-assistant/skills/skill_Calculator/pipelines/latest)
+
 ### Download
 
 ##### > WGET method
