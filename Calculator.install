@@ -1,7 +1,7 @@
 {
 	"name": "Calculator",
 	"version": "1.0.23",
-	"icon": "battle-net",
+	"icon": "fab fa-battle-net",
 	"author": "Psychokiller1888",
 	"maintainers": [
 		"maxbachmann",
