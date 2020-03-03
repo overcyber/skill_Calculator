@@ -2,6 +2,7 @@
 	"name": "Calculator",
 	"version": "1.0.24",
 	"icon": "fab fa-battle-net",
+	"category": "undefined",
 	"author": "Psychokiller1888",
 	"maintainers": [
 		"maxbachmann",
