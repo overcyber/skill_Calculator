@@ -1,7 +1,7 @@
 {
 	"name": "Calculator",
-	"version": "1.0.24",
-	"icon": "fab fa-battle-net",
+	"version": "1.0.25",
+	"icon": "fas fa-calculator",
 	"category": "assistance",
 	"author": "Psychokiller1888",
 	"maintainers": [
