@@ -1,7 +1,5 @@
 {
 	"skill": "Calculator",
-	"icon": "calculator",
-	"description": "Skill to help you calculate. Supports addition, subtraction, division, powers, square root, modulo, sine, cosine, tangente",
 	"slotTypes": [
 		{
 			"name": "MathsFunction",
@@ -81,7 +79,6 @@
 	"intents": [
 		{
 			"name": "Maths",
-			"description": "",
 			"enabledByDefault": true,
 			"utterances": [
 				"how much is {115:=>Left} {+:=>Function} {996:=>Right}",

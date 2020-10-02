@@ -1,7 +1,5 @@
 {
 	"skill": "Calculator",
-	"icon": "calculator",
-	"description": "Skill der beim berechnen hilft. Unterstützt Addition, Subtraktion, Division, Potenz, Quadratwurzel, Modulo, Sinus, Cosinus, Tangens",
 	"slotTypes": [
 		{
 			"name": "MathsFunction",
@@ -87,7 +85,6 @@
 	"intents": [
 		{
 			"name": "Maths",
-			"description": "",
 			"enabledByDefault": true,
 			"utterances": [
 				"Wie viel ist {115:=>Left} {+:=>Function} {996:=>Right}",
