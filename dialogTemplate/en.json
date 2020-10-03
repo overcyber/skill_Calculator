@@ -111,21 +111,18 @@
 			"slots": [
 				{
 					"name": "Function",
-					"description": null,
 					"required": false,
 					"type": "MathsFunction",
 					"missingQuestion": ""
 				},
 				{
 					"name": "Right",
-					"description": null,
 					"required": false,
 					"type": "snips/number",
 					"missingQuestion": ""
 				},
 				{
 					"name": "Left",
-					"description": null,
 					"required": false,
 					"type": "snips/number",
 					"missingQuestion": ""
