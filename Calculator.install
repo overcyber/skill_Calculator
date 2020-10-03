@@ -1,6 +1,6 @@
 {
     "name": "Calculator",
-    "version": "1.0.26",
+    "version": "1.0.27",
     "icon": "fas fa-calculator",
     "category": "assistance",
     "author": "Psychokiller1888",
@@ -9,7 +9,7 @@
         "Jierka"
     ],
     "desc": "Do some calculation with alice",
-    "aliceMinVersion": "1.0.0-a4",
+    "aliceMinVersion": "1.0.0-b3",
     "systemRequirements": [],
     "pipRequirements": [],
     "conditions": {
